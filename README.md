@@ -13,4 +13,8 @@ During the PHPUnit Code Sprint in Hamburg we came up with the task of finding a 
 Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed.
 
 ![1](suggestions/logo_1.png)
-![1](suggestions/logo_2.png)
+![2](suggestions/logo_2.png)
+
+One line, the `[x]` is a reference to a passed test with testdox output enabled.
+
+![3](suggestions/logo_3.png)
