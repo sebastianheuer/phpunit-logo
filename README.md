@@ -18,3 +18,4 @@ Colors are somewhat off, but I like the checkmark as a sign for a successful tes
 One line, the `[x]` is a reference to a passed test with testdox output enabled.
 
 ![3](suggestions/logo_3.png)
+![4](suggestions/logo_4.png)
