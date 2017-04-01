@@ -19,3 +19,5 @@ One line, the `[x]` is a reference to a passed test with testdox output enabled.
 
 ![3](suggestions/logo_3.png)
 ![4](suggestions/logo_4.png)
+
+![5](suggestions/logo_5.png)
