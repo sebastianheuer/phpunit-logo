@@ -20,6 +20,16 @@ One line, the `[x]` is a reference to a passed test with testdox output enabled.
 ![3](suggestions/logo_3.png)
 ![4](suggestions/logo_4.png)
 
+----
+
 Submission from https://github.com/hofmannsven: Thank you!
 
 ![5](suggestions/logo_5.png)
+
+----
+
+Submission from [Thorsten Frommen](https://github.com/tfrommen):
+
+![7](suggestions/logo_7.png)
+
+The font is Nunito, and the colors are _the PHP color_ as well as the according non-saturated (i.e., monochromatic) variant.
