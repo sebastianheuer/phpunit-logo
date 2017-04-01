@@ -26,6 +26,10 @@ Submission from https://github.com/hofmannsven: Thank you!
 
 ![5](suggestions/logo_5.png)
 
+Variant based on that submission:
+
+![6](suggestions/logo_6.png)
+
 ----
 
 Submission from [Thorsten Frommen](https://github.com/tfrommen):
