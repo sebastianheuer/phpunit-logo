@@ -37,3 +37,17 @@ Submission from [Thorsten Frommen](https://github.com/tfrommen):
 ![7](suggestions/logo_7.png)
 
 The font is Nunito, and the colors are _the PHP color_ as well as the according non-saturated (i.e., monochromatic) variant.
+
+----
+
+
+
+Submission from [Raí Siqueira](https://github.com/raisiqueira):
+
+
+
+![8](suggestions/logo_8.png)
+
+
+
+Simple variation of the logo 5, with the Aller Light font
