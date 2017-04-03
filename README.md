@@ -42,7 +42,7 @@ The font is Nunito, and the colors are _the PHP color_ as well as the according 
 
 
 
-Submission from [Raí Siqueira](https://github.com/raisiqueira):
+Submission from [Raï¿½ Siqueira](https://github.com/raisiqueira):
 
 
 
@@ -58,9 +58,9 @@ Simple variation of the logo 5, with the Aller Light font
 
 Submissions from [Arne Blankerts](https://github.com/theseer):
 
-![theseer_1](suggestions/theseer_logo_1.png)
-![theseer_2](suggestions/theseer_logo_2.png)
-![theseer_3](suggestions/theseer_logo_3.png)
-![theseer_4](suggestions/theseer_logo_4.png)
-![theseer_5](suggestions/theseer_logo_5.png)
+![theseer_1](suggestions/theseer/theseer_logo_1.png)
+![theseer_2](suggestions/theseer/theseer_logo_2.png)
+![theseer_3](suggestions/theseer/theseer_logo_3.png)
+![theseer_4](suggestions/theseer/theseer_logo_4.png)
+![theseer_5](suggestions/theseer/theseer_logo_5.png)
 
