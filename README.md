@@ -12,31 +12,35 @@ During the PHPUnit Code Sprint in Hamburg we came up with the task of finding a 
 
 Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed.
 
-![1](suggestions/logo_1.png)
-![2](suggestions/logo_2.png)
+![1](suggestions/belanur/logo_1.png)
+![2](suggestions/belanur/logo_2.png)
 
 One line, the `[x]` is a reference to a passed test with testdox output enabled.
 
-![3](suggestions/logo_3.png)
-![4](suggestions/logo_4.png)
+![3](suggestions/belanur/logo_3.png)
+![4](suggestions/belanur/logo_4.png)
 
 ----
 
 Submission from https://github.com/hofmannsven: Thank you!
 
-![5](suggestions/logo_5.png)
+![5](suggestions/hofmannsven/logo_5.png)
 
 Variant based on that submission:
 
-![6](suggestions/logo_6.png)
+![6](suggestions/belanur/logo_6.png)
 
 ----
 
-Submission from [Thorsten Frommen](https://github.com/tfrommen):
+Submissions from [Thorsten Frommen](https://github.com/tfrommen):
 
-![7](suggestions/logo_7.png)
+![7](suggestions/tfrommen/logo_7.png)
 
 The font is Nunito, and the colors are _the PHP color_ as well as the according non-saturated (i.e., monochromatic) variant.
+
+![8](suggestions/tfrommen/logo_8.png)
+
+The font is still Nunito, but I switched to SemiBold (instead of Regular) to make the letters and the checkmark blend better. Colors like before.
 
 ----
 
@@ -46,7 +50,7 @@ Submission from [Ra� Siqueira](https://github.com/raisiqueira):
 
 
 
-![8](suggestions/logo_8.png)
+![8](suggestions/raisiqueira/logo_8.png)
 
 
 
