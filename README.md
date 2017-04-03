@@ -34,10 +34,10 @@ Variant based on that submission:
 
 Submissions from [Thorsten Frommen](https://github.com/tfrommen):
 
-![7](suggestions/logo_7.png)
+![7](suggestions/tfrommen/logo_7.png)
 
 The font is Nunito, and the colors are _the PHP color_ as well as the according non-saturated (i.e., monochromatic) variant.
 
-![8](suggestions/logo_8.png)
+![8](suggestions/tfrommen/logo_8.png)
 
 The font is still Nunito, but I switched to SemiBold (instead of Regular) to make the letters and the checkmark blend better. Colors like before.
