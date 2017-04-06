@@ -62,10 +62,15 @@ Simple variation of the logo 5, with the Aller Light font
 
 Submissions from [Arne Blankerts](https://github.com/theseer):
 
+
 ![theseer_1](suggestions/theseer/theseer_logo_1.png)
 
 ![theseer_2](suggestions/theseer/theseer_logo_2.png)
 Updated: Due to popular demand I added a green version :)
+
+
+![theseer_2a](suggestions/theseer/theseer_logo_2a.png)
+New variants :)
 
 ![theseer_3](suggestions/theseer/theseer_logo_3.png)
 
