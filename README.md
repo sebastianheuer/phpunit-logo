@@ -78,3 +78,9 @@ Updated: Due to popular demand I added a green version :)
 Submission from https://github.com/whitingx:
 
 ![whitingx_1](suggestions/whitingx/phpunit-logo-idea.png)
+
+----
+
+Submission from https://github.com/franiglesias:
+
+![franiglesias_1](suggestions/franiglesias/phpunit-logo-franiglesias.png)
