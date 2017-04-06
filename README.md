@@ -68,3 +68,8 @@ Submissions from [Arne Blankerts](https://github.com/theseer):
 ![theseer_4](suggestions/theseer/theseer_logo_4.png)
 ![theseer_5](suggestions/theseer/theseer_logo_5.png)
 
+----
+
+Submission from https://github.com/whitingx:
+
+![whitingx_1](suggestions/whitingx/phpunit-logo-idea.png)
