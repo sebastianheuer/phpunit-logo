@@ -113,4 +113,6 @@ Submissions from https://github.com/gmazzap
 
 Submission from https://github.com/hollodotme
 
+These are my PHPUnit bash output colors. Font is SourceCode Pro.
+
 ![hollodotme_1](suggestions/hollodotme/PHPUnit-Logo-Proposal.png)
