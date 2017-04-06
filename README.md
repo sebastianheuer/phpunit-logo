@@ -90,3 +90,9 @@ Submission from https://github.com/whitingx:
 Submission from https://github.com/franiglesias:
 
 ![franiglesias_1](suggestions/franiglesias/phpunit-logo-franiglesias.png)
+
+----
+
+Submission from https://github.com/alex1971
+
+![alex1971_1](suggestions/alex1971/alex1971_1.png)
