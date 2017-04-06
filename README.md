@@ -70,17 +70,22 @@ Submissions from [Arne Blankerts](https://github.com/theseer):
 ![theseer_1](suggestions/theseer/theseer_logo_1.png)
 
 ![theseer_2](suggestions/theseer/theseer_logo_2.png)
-Updated: Due to popular demand I added a green version :)
 
 
 ![theseer_2a](suggestions/theseer/theseer_logo_2a.png)
-New variants :)
 
 ![theseer_3](suggestions/theseer/theseer_logo_3.png)
 
 ![theseer_4](suggestions/theseer/theseer_logo_4.png)
 
 ![theseer_5](suggestions/theseer/theseer_logo_5.png)
+
+
+
+Some more variants that are in part inspired by the design of Alex1971 (see below): 
+
+
+![theseer_6](suggestions/theseer/theseer_logo_6.png)
 
 ----
 
