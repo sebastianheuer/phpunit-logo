@@ -116,3 +116,15 @@ Submission from https://github.com/hollodotme
 These are my PHPUnit bash output colors. Font is SourceCode Pro.
 
 ![hollodotme_1](suggestions/hollodotme/PHPUnitLogo-01.png)
+
+![hollodotme_3](suggestions/hollodotme/PHPUnitLogo-03.png)
+
+![hollodotme_5](suggestions/hollodotme/PHPUnitLogo-05.png)
+
+Inverse variants:
+
+![hollodotme_2](suggestions/hollodotme/PHPUnitLogo-02.png)
+
+![hollodotme_4](suggestions/hollodotme/PHPUnitLogo-04.png)
+
+![hollodotme_6](suggestions/hollodotme/PHPUnitLogo-06.png)
