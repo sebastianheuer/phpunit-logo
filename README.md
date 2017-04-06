@@ -78,3 +78,4 @@ Updated: Due to popular demand I added a green version :)
 Submission from https://github.com/whitingx:
 
 ![whitingx_1](suggestions/whitingx/phpunit-logo-idea.png)
+![whitingx_2](suggestions/whitingx/phpunit-logo-tagline-idea.png)
