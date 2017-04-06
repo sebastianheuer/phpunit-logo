@@ -84,3 +84,9 @@ Submission from https://github.com/whitingx:
 
 ![whitingx_1](suggestions/whitingx/phpunit-logo-idea.png)
 ![whitingx_2](suggestions/whitingx/phpunit-logo-tagline-idea.png)
+
+----
+
+Submission from https://github.com/franiglesias:
+
+![franiglesias_1](suggestions/franiglesias/phpunit-logo-franiglesias.png)
