@@ -148,3 +148,12 @@ Inverse variants:
 Submissions from https://github.com/matchilling
 
 ![matchilling](suggestions/matchilling/phpunit_logo.png)
+
+----
+
+Submissions from https://github.com/SoumyaDas and https://github.com/ShafiKhan
+
+![soumyadas_1](suggestions/SoumyaDas/php_unit---3--.png)  
+![soumyadas_2](suggestions/SoumyaDas/php_unit---4-----Copy.png)  
+![soumyadas_3](suggestions/SoumyaDas/php_unit---4--.png)  
+
