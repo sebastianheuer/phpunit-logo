@@ -2,6 +2,8 @@
 
 During the PHPUnit Code Sprint in Hamburg we came up with the task of finding a (new) logo for PHPUnit. This repository holds ideas, sketches and suggestions for now.
 
+**You can see a gallery of all submissions here: [https://belanur.github.io/phpunit-logo](https://belanur.github.io/phpunit-logo)**
+
 ## Licensing
 
 Please note that all rights on the final logo will have to be given to Sebastian Bergmann. See more details on the license discussions in [issue #6](../../issues/6)
