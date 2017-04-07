@@ -4,17 +4,17 @@
   path: /suggestions/alex1971/alex1971_2.png
 - author: belanur
   path: /suggestions/belanur/logo_1.png
-  comment: Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed.
+  comment: "Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed."
 - author: belanur
   path: /suggestions/belanur/logo_2.png
-  comment: Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed.
+  comment: "Colors are somewhat off, but I like the checkmark as a sign for a successful test run. The font is Avenir Next Condensed."
 - author: belanur
-  comment: One line, the [x] is a reference to a passed test with testdox output enabled
+  comment: "One line, the [x] is a reference to a passed test with testdox output enabled"
   path: /suggestions/belanur/logo_3.png
 - author: belanur
   path: /suggestions/belanur/logo_4.png
 - author: belanur
-  comment: Variant based on the submissions from @hofmannsven
+  comment: "Variant based on the submissions from @hofmannsven"
   path: /suggestions/belanur/logo_6.png
 - author: franiglesias
   path: /suggestions/franiglesias/phpunit-logo-franiglesias.png
@@ -30,22 +30,22 @@
   path: /suggestions/hofmannsven/logo_5.png
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-01.png
-  comment: These are my PHPUnit bash output colors. Font is SourceCode Pro.
+  comment: "These are my PHPUnit bash output colors. Font is SourceCode Pro."
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-02.png
-  comment: Inverse variant
+  comment: "Inverse variant"
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-03.png
-  comment: These are my PHPUnit bash output colors. Font is SourceCode Pro.
+  comment: "These are my PHPUnit bash output colors. Font is SourceCode Pro."
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-04.png
-  comment: Inverse variant
+  comment: "Inverse variant"
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-05.png
-  comment: These are my PHPUnit bash output colors. Font is SourceCode Pro.
+  comment: "These are my PHPUnit bash output colors. Font is SourceCode Pro."
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-06.png
-  comment: Inverse variant
+  comment: "Inverse variant"
 - author: matchilling
   path: /suggestions/matchilling/phpunit_logo.png
 - author: mazharkazi
@@ -56,10 +56,10 @@
   path: /suggestions/netmosfera/v1b.png
 - author: nhlm
   path: /suggestions/nhlm/nhlm_1.png
-  comment: I've created this logo using Vincent Pontier's ElePHPant. Fonts used: SD Gothic Neol, Arial Rounded MT Bold, Futura
+  comment: "I've created this logo using Vincent Pontier's ElePHPant. Fonts used: SD Gothic Neol, Arial Rounded MT Bold, Futura"
 - author: raisiqueira
   path: /suggestions/raisiqueira/logo_8.png
-  comment: Simple variation of the logo 5, with the Aller Light font
+  comment: "Simple variation of the logo 5, with the Aller Light font"
 - author: SoumyaDas
   path: /suggestions/SoumyaDas/php_unit---3--.png
 - author: SoumyaDas
@@ -68,10 +68,10 @@
   path: /suggestions/SoumyaDas/php_unit---4--.png
 - author: tfrommen
   path: /suggestions/tfrommen/logo_7.png
-  comment: The font is Nunito, and the colors are the PHP color as well as the according non-saturated (i.e., monochromatic) variant.
+  comment: "The font is Nunito, and the colors are the PHP color as well as the according non-saturated (i.e., monochromatic) variant."
 - author: tfrommen
   path: /suggestions/tfrommen/logo_8.png
-  comment: The font is still Nunito, but I switched to SemiBold (instead of Regular) to make the letters and the checkmark blend better. Colors like before.
+  comment: "The font is still Nunito, but I switched to SemiBold (instead of Regular) to make the letters and the checkmark blend better. Colors like before."
 - author: theseer
   path: /suggestions/theseer/theseer_logo_1.png
 - author: theseer
@@ -86,7 +86,7 @@
   path: /suggestions/theseer/theseer_logo_5.png
 - author: theseer
   path: /suggestions/theseer/theseer_logo_6.png
-  comment: Some more variants that are in part inspired by the design of @alex1971
+  comment: "Some more variants that are in part inspired by the design of @alex1971"
 - author: whitingx
   path: /suggestions/whitingx/phpunit-logo-idea.png
 - author: whitingx
