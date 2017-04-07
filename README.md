@@ -108,3 +108,5 @@ Submissions from https://github.com/gmazzap
 
 ![gmazzap_1](suggestions/gmazzap/gmazzap.png)
 ![gmazzap_2](suggestions/gmazzap/gmazzap_inverse.png)
+![gmazzap_3](suggestions/gmazzap/gmazzap_2.png)
+![gmazzap_4](suggestions/gmazzap/gmazzap_2_inverse.png)
