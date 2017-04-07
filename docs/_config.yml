@@ -12,6 +12,9 @@ github_username:  belanur
 markdown: kramdown
 theme: minima
 
+gems:
+  - jekyll-mentions
+
 exclude:
   - Gemfile
   - Gemfile.lock
