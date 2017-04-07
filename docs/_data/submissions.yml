@@ -54,6 +54,9 @@
   path: /suggestions/netmosfera/v1.png
 - author: netmosfera
   path: /suggestions/netmosfera/v1b.png
+- author: nhlm
+  path: /suggestions/nhlm/nhlm_1.png
+  comment: I've created this logo using Vincent Pontier's ElePHPant. Fonts used: SD Gothic Neol, Arial Rounded MT Bold, Futura
 - author: raisiqueira
   path: /suggestions/raisiqueira/logo_8.png
   comment: Simple variation of the logo 5, with the Aller Light font
