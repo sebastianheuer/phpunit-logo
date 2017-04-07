@@ -1,0 +1,17 @@
+author: Sebastian Heuer
+title: PHPUnit Logo Submissions
+email:
+description: >
+  All PHPUnit logo ideas submitted to https://github.com/belanur/phpunit-logo
+baseurl: ""
+url: "http://belanur.github.io/phpunit-logo"
+twitter_username: belanur
+github_username:  belanur
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
