@@ -12,7 +12,7 @@ layout: gallery
 {% if submission.comment %}
 {{submission.comment}} <br/>
 {% endif %}
-submitted by <a target="_blank" href="https://github.com/{{submission.author}}">{{submission.author}}</a></span>
+submitted by @{{submission.author}}</span>
 </figcaption>
 </figure>
 </div>
