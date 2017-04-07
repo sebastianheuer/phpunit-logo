@@ -70,17 +70,22 @@ Submissions from [Arne Blankerts](https://github.com/theseer):
 ![theseer_1](suggestions/theseer/theseer_logo_1.png)
 
 ![theseer_2](suggestions/theseer/theseer_logo_2.png)
-Updated: Due to popular demand I added a green version :)
 
 
 ![theseer_2a](suggestions/theseer/theseer_logo_2a.png)
-New variants :)
 
 ![theseer_3](suggestions/theseer/theseer_logo_3.png)
 
 ![theseer_4](suggestions/theseer/theseer_logo_4.png)
 
 ![theseer_5](suggestions/theseer/theseer_logo_5.png)
+
+
+
+Some more variants that are in part inspired by the design of Alex1971 (see below): 
+
+
+![theseer_6](suggestions/theseer/theseer_logo_6.png)
 
 ----
 
@@ -108,6 +113,35 @@ Submissions from https://github.com/gmazzap
 
 ![gmazzap_1](suggestions/gmazzap/gmazzap.png)
 ![gmazzap_2](suggestions/gmazzap/gmazzap_inverse.png)
+![gmazzap_3](suggestions/gmazzap/gmazzap_2.png)
+![gmazzap_4](suggestions/gmazzap/gmazzap_2_inverse.png)
+
+---- 
+
+Submissions from https://github.com/Netmosfera
+
+![netmosfera_1](suggestions/netmosfera/v1.png)
+![netmosfera_1](suggestions/netmosfera/v1b.png)
+
+----
+
+Submission from https://github.com/hollodotme
+
+These are my PHPUnit bash output colors. Font is SourceCode Pro.
+
+![hollodotme_1](suggestions/hollodotme/PHPUnitLogo-01.png)
+
+![hollodotme_3](suggestions/hollodotme/PHPUnitLogo-03.png)
+
+![hollodotme_5](suggestions/hollodotme/PHPUnitLogo-05.png)
+
+Inverse variants:
+
+![hollodotme_2](suggestions/hollodotme/PHPUnitLogo-02.png)
+
+![hollodotme_4](suggestions/hollodotme/PHPUnitLogo-04.png)
+
+![hollodotme_6](suggestions/hollodotme/PHPUnitLogo-06.png)
 
 ----
 
