@@ -18,15 +18,15 @@ Please note that all rights on the final logo will have to be given to Sebastian
 
 ## Submitting a logo
 
-Before submitting a logo, please be aware that all rights for that 
+Before submitting a logo, please be aware that all rights for that
 logo will have to be given to Sebastian Bergmann if it is chosen
 as the official PHPUnit logo.
- 
+
 To add your suggestion:
 1. [Fork this repository](https://github.com/belanur/phpunit-logo/fork)
 2. Upload your image(s) to the `suggestions/<yourGitHubUsername>/` folder, e.g. `suggestions/johndoe`
-3. Add corresponding entries to `docs/_data/submissions.yml` or run `python _updateData.ym` in the `docs/` directory  
-You can optionally add a (short!) comment that will be shown on the gallery page. 
+3. Add corresponding entries to `docs/_data/submissions.yml` or run `pip install pyyaml` && `python _updateData.ym` in the `docs/` directory
+You can optionally add a (short!) comment that will be shown on the gallery page.
 4. Create a Pull Request :)
 
-If you are not sure how to do step 3, feel free to omit it and mention that in the Pull Request. 
+If you are not sure how to do step 3, feel free to omit it and mention that in the Pull Request.
