@@ -17,8 +17,9 @@ for subdir, dirs, files in os.walk(submissionsDir):
     for file in files:
         if os.path.splitext(file)[1] not in ('.png', '.jpeg', '.jpg', '.gif'):
             continue
-        fullPath = os.path.join(subdir, file).replace('../', '/')
-        authorGitHubAliasAll = re.findall(r'[/\\]suggestions[/\\](.*)[\\/]', fullPath)
+        fullPath = os.path.join(subdir, file).replace('../', '/').replace('\\', '/')
+        print(fullPath)
+        authorGitHubAlias = re.findall(r'/suggestions/(.*)/', fullPath)
 
         found = False
 
