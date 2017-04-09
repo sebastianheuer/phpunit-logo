@@ -27,7 +27,8 @@
 - author: gmazzap
   path: /suggestions/gmazzap/gmazzap_inverse.png
 - author: hofmannsven
-  path: /suggestions/hofmannsven/logo_5.png
+  path: /suggestions/hofmannsven/hofmannsven_animated.gif
+  comment: "Based on the idea of testdox and the animated testing process; set in a slightly modified version of the font PT Sans."
 - author: hollodotme
   path: /suggestions/hollodotme/PHPUnitLogo-01.png
   comment: "These are my PHPUnit bash output colors. Font is SourceCode Pro."
