@@ -82,6 +82,12 @@
 - author: tfrommen
   path: /suggestions/tfrommen/logo_8.png
   comment: "The font is still Nunito, but I switched to SemiBold (instead of Regular) to make the letters and the checkmark blend better. Colors like before."
+- author: tfrommen
+  path: /suggestions/tfrommen/logo_1.png
+  comment: "Variant of the first logo, with the checkmark being the dot on the i."
+- author: tfrommen
+  path: /suggestions/tfrommen/logo_2.png
+  comment: "Variant of the first logo, with the checkmark being the dot on the i."
 - author: theseer
   path: /suggestions/theseer/theseer_logo_1.png
 - author: theseer
