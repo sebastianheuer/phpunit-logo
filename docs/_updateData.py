@@ -17,7 +17,7 @@ for subdir, dirs, files in os.walk(submissionsDir):
     for file in files:
         if os.path.splitext(file)[1] not in ('.png', '.jpeg', '.jpg', '.gif'):
             continue
-        fullPath = os.path.join(subdir, file).replace('../', '/')
+        fullPath = os.path.join(subdir, file).replace('../', '/').replace('\\', '/')
         authorGitHubAlias = re.findall(r'/suggestions/(.*)/', fullPath)[0]
 
         found = False
@@ -29,7 +29,7 @@ for subdir, dirs, files in os.walk(submissionsDir):
         if found:
             continue
 
-        print "append"
+        print("append")
         data.append({'path': fullPath, 'author': authorGitHubAlias});
 
 with open('_data/submissions.yml', 'w') as outfile:
