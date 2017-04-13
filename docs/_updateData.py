@@ -33,4 +33,4 @@ for subdir, dirs, files in os.walk(submissionsDir):
         data.append({'path': fullPath, 'author': authorGitHubAlias});
 
 with open('_data/submissions.yml', 'w') as outfile:
-    yaml.dump(data, outfile, default_flow_style=False)
+    yaml.dump(data, outfile, default_flow_style=False, default_style='"')
